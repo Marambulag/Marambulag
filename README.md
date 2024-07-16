@@ -28,7 +28,7 @@ Passionate about Robotics, AI, ML, embedded systems, low level programming
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marambulag&background=001a4d&border=ffffff&stroke=ffffff&ring=ffffff&fire=ff4500&currStreakNum=d9d9d9&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=d9d9d9&dates=d9d9d9" alt="Manuel's GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marambulag&background=001a4d&border=ffffff&stroke=ffffff&ring=ffffff&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=d9d9d9" alt="Manuel's GitHub Streak" height="150"/>
 </p>
 
 
