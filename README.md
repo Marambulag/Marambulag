@@ -1,21 +1,6 @@
 # Hi there, I'm Manuel Arambula 👋   <p align="center">
  
- 
-File metadata and controls
-￼
-Preview
-￼
-Code
-￼
-Blame
-45 lines (29 loc) · 2.4 KB
-￼
-Code 55% faster with GitHub Copilot
-Raw
-￼
-￼
-￼
-￼
+
 
 B.S. in Robotics and Digital Systems Engineering  
 Passionate about Robotics, AI, ML, embedded systems, low level programming
@@ -43,7 +28,7 @@ Passionate about Robotics, AI, ML, embedded systems, low level programming
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marambulag&theme=blueberry&background=#003366&border=0000ff&stroke=0000ff&ring=0000ff&fire=ff0000&currStreakNum=0000ff&sideNums=0000ff&currStreakLabel=0000ff&sideLabels=0000ff" alt="Manuel's GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marambulag&background=00008B&border=ffffff&stroke=ffffff&ring=ffffff&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" alt="Manuel's GitHub Streak" height="150"/>
 </p>
 
 
