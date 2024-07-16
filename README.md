@@ -29,18 +29,12 @@ B.S. in Robotics and Digital Systems Engineering
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marambulag&show_icons=true&theme=radical" alt="Manuel's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marambulag&layout=compact&theme=radical" alt="Manuel's Top Languages" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Marambulag&theme=radical" alt="Manuel's GitHub Streak" height="150"/>
 </p>
 
 ---
 
-## 🚀 Projects
 
-- **[Project 1](https://github.com/Marambulag/project1)**: Short description of Project 1.
-- **[Project 2](https://github.com/Marambulag/project2)**: Short description of Project 2.
-- **[Project 3](https://github.com/Marambulag/project3)**: Short description of Project 3.
 
 ---
 
@@ -59,13 +53,3 @@ B.S. in Robotics and Digital Systems Engineering
 </p>
 
 ---
-
-## 🎵 Spotify Playing
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername)
-
----
-
-## 🎵 Spotify Playing
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername)
