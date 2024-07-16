@@ -1,7 +1,7 @@
 # Hi there, I'm Manuel Arambula 👋
 
 B.S. in Robotics and Digital Systems Engineering  
-🌟 Passionate about Robotics, Machine Learning, and Data Science
+Passionate about Robotics, AI, ML, embedded systems, low level programming
 
 ---
 
