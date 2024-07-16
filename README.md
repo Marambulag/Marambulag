@@ -46,10 +46,5 @@ B.S. in Robotics and Digital Systems Engineering
   </a>
   <a href="mailto:A01645677@tec.mx">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Marambulag">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
+ 
 ---
