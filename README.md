@@ -1,9 +1,5 @@
 # Hi there, I'm Manuel Arambula 👋   <p align="center">
-  <a href="https://linkedin.com/in/manuel-arambulag-">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:A01645677@tec.mx">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+ 
  
 
 B.S. in Robotics and Digital Systems Engineering  
