@@ -3,7 +3,7 @@
 
 
 B.S. in Robotics and Digital Systems Engineering  
-Passionate about Robotics, AI, ML, embedded systems, low level programming
+Passionate about Robotics, AI, ML,DL, embedded systems, low level programming
 
 ---
 
